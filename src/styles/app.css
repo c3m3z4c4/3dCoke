@@ -1,3 +1,5 @@
+@import url("../public/fonts/CocaFont.css");
+
 body {
   margin: 0;
   background-color: #eec9b6;
@@ -12,3 +14,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+      font-family: 'CocaCola';
+      src: local('CocaCola'), url('../public/fonts/cocacola.woff') format('woff');
+ }

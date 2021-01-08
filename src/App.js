@@ -1,11 +1,10 @@
-import './App.css';
-
+import MainContainer from './containers/MainContainer/index.js'
 function App() {
   return (
     <div className="App">
-      <h1>
-        Esta la pagina inicial
-      </h1>
+      <MainContainer>
+
+      </MainContainer>
       
     </div>
   );
