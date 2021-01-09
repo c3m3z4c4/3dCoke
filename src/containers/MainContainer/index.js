@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../../components/Navbar'
-import Hero from '../../components/Hero'
+import Bottle from '../../components/Bottle'
 import Footer from '../../components/Footer'
 import { MainContainer } from './styles';
 
@@ -8,7 +8,7 @@ import { MainContainer } from './styles';
   return (
     <MainContainer>
       <Navbar></Navbar>
-      <Hero/>
+      <Bottle/>
       <Footer/>
     </MainContainer>
   )

@@ -18,16 +18,17 @@ export const NavbarTitle = styled.div`
     font-family: 'CocaCola' !important;
     margin-right: auto;
     font-size: 150%;
-    padding: 0 16px;
+    padding: 20px 16px;
 `
 export const NavbarLogo = styled.img`
     margin-right: auto;
-    max-width: 120px;
+    max-width: 180px;
 
 `
 
 export const NavbarList = styled.ul`
     list-style-type: none;
+    padding-top: 40px;
 
 
 `
@@ -46,9 +47,10 @@ export const Link = styled.a`
     transition:color 0.7s;
     &:hover{
         color: #2a282a;
-        /* border-bottom:5px solid #fff; */
+        text-shadow: #ffffff;
     }
     &:active{
-        color:#eb051d; 
+        color:#2a282a; 
+        text-shadow: #eb051d;
     }
 `

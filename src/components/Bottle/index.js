@@ -1,10 +1,19 @@
 import React from 'react'
+import Side from './side/index'
+import { StyledBottle, StyledSides } from './style'
 
 const Bottle = () => {
   return (
-    <div>
-      
-    </div>
+    <StyledBottle>
+      <StyledSides>
+        <Side></Side>
+        <Side></Side>
+        <Side></Side>
+        <Side></Side>
+        <Side></Side>
+        <Side></Side>
+      </StyledSides>
+    </StyledBottle>
   )
 }
 
