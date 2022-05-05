@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca45d5bf.css",
-    "main.js": "/static/js/main.321bb259.js",
-    "static/js/787.7577aa8b.chunk.js": "/static/js/787.7577aa8b.chunk.js",
-    "static/media/LOKICOLA.woff": "/static/media/LOKICOLA.3f0d193e40c460b88d33.woff",
-    "static/media/logoCoke.png": "/static/media/logoCoke.5b7ba8596a346d2d3296.png",
-    "static/media/cocacola.woff": "/static/media/cocacola.1909692e4b88cc10c4c2.woff",
-    "index.html": "/index.html",
-    "main.ca45d5bf.css.map": "/static/css/main.ca45d5bf.css.map",
-    "main.321bb259.js.map": "/static/js/main.321bb259.js.map",
-    "787.7577aa8b.chunk.js.map": "/static/js/787.7577aa8b.chunk.js.map"
+    "main.css": "//c3m3z4.github.io/3dCoke/static/css/main.3cfb1cbb.css",
+    "main.js": "//c3m3z4.github.io/3dCoke/static/js/main.4d2855cd.js",
+    "static/js/787.7577aa8b.chunk.js": "//c3m3z4.github.io/3dCoke/static/js/787.7577aa8b.chunk.js",
+    "static/media/LOKICOLA.woff": "//c3m3z4.github.io/3dCoke/static/media/LOKICOLA.3f0d193e40c460b88d33.woff",
+    "static/media/logoCoke.png": "//c3m3z4.github.io/3dCoke/static/media/logoCoke.5b7ba8596a346d2d3296.png",
+    "static/media/cocacola.woff": "//c3m3z4.github.io/3dCoke/static/media/cocacola.1909692e4b88cc10c4c2.woff",
+    "index.html": "//c3m3z4.github.io/3dCoke/index.html",
+    "main.3cfb1cbb.css.map": "//c3m3z4.github.io/3dCoke/static/css/main.3cfb1cbb.css.map",
+    "main.4d2855cd.js.map": "//c3m3z4.github.io/3dCoke/static/js/main.4d2855cd.js.map",
+    "787.7577aa8b.chunk.js.map": "//c3m3z4.github.io/3dCoke/static/js/787.7577aa8b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca45d5bf.css",
-    "static/js/main.321bb259.js"
+    "static/css/main.3cfb1cbb.css",
+    "static/js/main.4d2855cd.js"
   ]
 }
